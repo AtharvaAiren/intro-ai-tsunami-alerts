@@ -13,6 +13,21 @@ We recommend executing this notebook in a Colab environment to gain access to GP
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Run locally
+
+1. Create and activate a Python environment.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Start Jupyter and open the notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Open [Predicting_Tsunami_Alerts_from_Earthquake_Observations.ipynb](Predicting_Tsunami_Alerts_from_Earthquake_Observations.ipynb).
+
+If Folium is unavailable in your environment, the notebook will automatically fall back to a static plot so the analysis still completes.
+
 ## Contribute to this tutorial
 
 Please refer to these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a pull request via the "fork and pull request" workflow. 
