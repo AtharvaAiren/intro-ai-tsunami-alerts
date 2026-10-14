@@ -1,5 +1,8 @@
 # Introduction to AI: Predicting Tsunami Alerts from Earthquake Observations
 
+> **Tutorial fork:** This is a fork of [Climate Change AI teaching material](https://github.com/climatechange-ai-tutorials/intro-ai-tsunami-alerts). The tutorial and its authors are credited below; it is listed as learning material in [my portfolio](https://github.com/AtharvaAiren), separately from original project work.
+
+
 This tutorial is a beginner-friendly walk through the complete machine learning workflow, using real earthquake data from the US Geological Survey. By the end, you will have built and evaluated a model that flags earthquakes likely to trigger a tsunami, while learning every concept from the ground up.
 
 Author:
